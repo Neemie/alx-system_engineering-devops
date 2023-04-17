@@ -1,1 +1,1 @@
-delete only files not directories with .js
+write a script that counts all directories and sub directories
