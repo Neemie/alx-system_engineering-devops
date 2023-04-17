@@ -1,1 +1,1 @@
-write a shell script that creates a file named best school
+Write a script that writes into the file ls_cwd_content the result of the command ls -la
